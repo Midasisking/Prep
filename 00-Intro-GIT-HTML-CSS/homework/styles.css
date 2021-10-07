@@ -1,5 +1,5 @@
 #thirdDiv {
-    height: 175px;
+    height: 600px;
     width: 500px;
     background-color:wheat;
     padding: 50px;
@@ -12,5 +12,13 @@
     }
 .divClass {
     width: 800px;
+    margin: 0 auto;
+}
+#divCV {
+    height: 175px;
+    width: 500px;
+    background-color:wheat;
+    padding: 50px;
+    border: 2px solid blueviolet;
     margin: 0 auto;
 }
