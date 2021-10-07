@@ -4,8 +4,13 @@
     background-color:wheat;
     padding: 50px;
     border: 2px solid blueviolet;
+    margin: 0 auto;
 }
 #spanID {
     font-size: 25px;
     margin: 50px;
     }
+.divClass {
+    width: 800px;
+    margin: 0 auto;
+}
