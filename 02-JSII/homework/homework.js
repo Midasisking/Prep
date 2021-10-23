@@ -97,7 +97,13 @@ function continueStatement(numero) {
   // y se continua con la siguiente iteración
   // Pista: usá el statement 'continue'
   // Tu código:
-  
+  var arr = [];
+  for (let i = 0; i < 10; i++) {
+    numero = numero +2;
+    if (i == 5) continue;
+    arr.push(numero);
+  }
+  return arr;
 }
 
 function crearGato(nombre, edad) {
@@ -114,7 +120,8 @@ function agregarPropiedad(objeto, property) {
   // Devuelve el objeto
   // NOTA: El nombre de la propiedad no es "propiedad", el nombre es el valor del argumento llamado "property" (una cadena/string)
   // Tu código:
-
+  objeto[property] = null;
+  return objeto;
 }
 
 function invocarMetodo(objeto, metodo) {

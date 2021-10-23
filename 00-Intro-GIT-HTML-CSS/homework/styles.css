@@ -3,8 +3,12 @@
     width: 500px;
     background-color:wheat;
     padding: 50px;
+    padding;
     border: 2px solid blueviolet;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #spanID {
     font-size: 25px;
