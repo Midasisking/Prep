@@ -8,6 +8,8 @@
 * [03 - JSIII - Class + Prototype](./03-JSIII)
 * [04 - JSIV - Callbacks](./04-JSIV)
 
-piri gato
+piri gato x2
+
+santi wuachin
 
 ### Si querés saber más sobre la carrera de Full Stack Developer de Henry ingresa a https://www.soyhenry.com/
